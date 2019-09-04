@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amaajemyfren/oreilly-matplotlib-course/master)
 ## Mastering Matplotlib
 
 Jupyter notebooks for my [matplotlib course][1] from [O'Reilly Media][2].
